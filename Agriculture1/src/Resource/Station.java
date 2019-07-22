@@ -1,0 +1,6 @@
+package Resource;
+
+public class Station { 
+	 int station_x;
+	 int station_y;        //ÖÐ×ªÕ¾Î»ÖÃ
+}
